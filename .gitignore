@@ -8,6 +8,8 @@
 
 .vs/
 .vscode/
+.svn/
+.vsconfig
 
 *.csproj
 *.unityproj
